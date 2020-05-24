@@ -4,6 +4,6 @@ mysql:
   username: root
   password: root
 violentBrush:
-  intime: 60
+  intime: 60000
   times: 10
   
